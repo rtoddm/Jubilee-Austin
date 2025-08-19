@@ -1,3 +1,15 @@
+## 📌 Archived Project Notice  
+
+This project was originally created as part of a self-paced bootcamp. It uses **HTML, CSS, and basic JavaScript** to demonstrate core web development concepts.  
+
+While the project is functional, it doesn’t fully reflect my current coding style or skill level. I’ve archived it to keep my portfolio focused on more recent work, but I’m leaving the code and demo up for reference.  
+
+🔗 [View Live Demo](https://rtoddm.github.io/Jubilee-Austin/)
+
+
+----
+
+
 ## Table of contents
 
 - [Overview](#overview)
